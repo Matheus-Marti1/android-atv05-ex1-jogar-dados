@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atv5Ex1Dados</string>
+    <string name="nome_aluno">Matheus Augusto Marti</string>
+    <string name="ra_aluno">RA: 1110482313017</string>
+    <string name="titulo">Jogar Dados</string>
+    <string name="escolha_qtde">Quantidade:</string>
+    <string name="escolha_tipo">Tipo:</string>
+    <string name="btn_jogar">Jogar dados</string>
+    <string name="um_dado">1</string>
+    <string name="dois_dado">2</string>
+    <string name="tres_dado">3</string>
+</resources>
